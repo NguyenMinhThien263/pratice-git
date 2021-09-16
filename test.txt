@@ -1,0 +1,3 @@
+try to create a file named test.txt
+Pull this to the page: https://github.com
+use SmartGit
